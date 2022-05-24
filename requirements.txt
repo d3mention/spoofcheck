@@ -2,3 +2,4 @@ colorama
 emailprotectionslib>=0.8.2
 dnslib
 tldextract
+py-emailprotections
